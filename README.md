@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Fay
 
-<!--
-**FayKn/FayKn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a backend-focused developer
+#### 🏫 Student @ Hogeschool Utrecht.
+#### 💖 Golang.
+#### ⭐ Experienced in Golang, Nuxt.js and Laravel
+#### 🛜 Worked with (networking): Docker, OpenXPKI, Microsoft Active Directory, WireGuard and Sophos Firewall API
+#### 🔒 Closed source project(s) I've worked on:
+* [Arix addon pack](https://builtbybit.com/resources/addon-pack-arix-pterodactyl.62333/)
+  *  Functional additions to Pterodactyl perfectly integrated in the Arix theme in collaboration with Pepijn Weijers.
+  *  My part done in Golang and Laravel
